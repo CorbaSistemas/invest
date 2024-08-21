@@ -1,5 +1,10 @@
 # README
 
+### Desenvolvedor
+Dionízio Inácio - 62-98222-9267
+
+Tenho como meta o desenvolvimento de uma arquitetura e código onde o simples sempre será mais, sem perder o poder de criar um sistema inovador e eficaz.
+
 ### CORBAINVEST
 Sistema que distribui as solicitações para o time correto de acordo com o seu
 tipo. Solicitações com assunto "Problemas com cartão", devem ser enviados para atendentes do
